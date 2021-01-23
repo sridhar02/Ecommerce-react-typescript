@@ -11,8 +11,6 @@ import Badge from '@material-ui/core/Badge';
 import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 //styles
 import { Wrapper, StyledButton } from './App.styles';
-import { servicesVersion } from 'typescript';
-import CartItem from './CartItem/CartItem';
 //Types
 export type CartItemType = {
   id: number;
